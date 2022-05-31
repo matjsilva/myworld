@@ -1,4 +1,4 @@
-# myworld
+# My World
 WIP => Website to be developed.
 
 a future website for my own thoughts.
